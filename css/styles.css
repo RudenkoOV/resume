@@ -58,13 +58,14 @@ body {
 
 /* about */
 .about__user {
-  margin-bottom: 20px;
+  margin-bottom: 30px;
+  margin-top: 94px;
 }
 
 .about__position {
   font-size: 24px;
   line-height: 17px;
-  margin-bottom: 20px;
+  margin-bottom: 50px;
 }
 
 .about__name {
