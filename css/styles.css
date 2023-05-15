@@ -25,14 +25,14 @@ img {
 :root {
   --main-background: #f5f5f5;
   --main-content-box: #6566a1;
-  --project-links: #595959;
+  --project-links: #141414;
   --project-hover: #1c3458;
   --sidebar-background: #1c3458;
   --project-bar: #000;
   --skils-text: #fff;
   --skils-items: #888787e5;
   --contacts-link: #c2c8cf;
-  --dates: #a8a8a8;
+  --dates: #5e5b5b;
   --company-univer: #1e1ba0da;
 }
 
